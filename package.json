@@ -1,0 +1,27 @@
+{
+  "name": "pollyfill-js",
+  "version": "1.0.0",
+  "description": "pollyfils for most used inbuilt javascript functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupesh-Gudmalwar/pollyfill-js.git"
+  },
+  "keywords": [
+    "pollyfill",
+    "js-inbuilt-functions"
+  ],
+  "author": "Rupesh Gudmalwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rupesh-Gudmalwar/pollyfill-js/issues"
+  },
+  "homepage": "https://github.com/Rupesh-Gudmalwar/pollyfill-js#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
